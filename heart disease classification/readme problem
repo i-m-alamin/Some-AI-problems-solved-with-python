@@ -1,0 +1,9 @@
+task details
+1. Find your dataset above
+2. You can learn mode about your dataset searching online, but it is not something you have to do
+3. Load the dataset as dataframe using pandas
+4. Handle missing values if needed
+5. Encode categorical features if needed
+6. Scale all the values between 0-1 with proper scaling technique
+7. Split the dataset into features and labels. Use your intuition to determine which column indicates the labels.
+
