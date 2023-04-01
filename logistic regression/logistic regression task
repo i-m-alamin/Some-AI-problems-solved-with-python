@@ -1,0 +1,4 @@
+1. Collect the dataset
+2. Perform classification and calculate accuracy using logistic regression (Use sklearn library). Perform necessary pre-processing on the dataset before classification. Use 8:2 train-test split.
+3. Perform classification and calculate accuracy using decision tree (Use sklearn library). Perform necessary pre-processing on the dataset before classification. Use 8:2 train-test split.
+4. Compare the accuracy and plot them as a bar chart using matplotlib/seaborn
